@@ -1,0 +1,41 @@
+$background-input:#e4e4e4;
+
+.btn.btn-primary {
+    color: #fff;
+}
+
+.modal {
+    background: rgba(0,0,0,0.5);
+    &.fade.show {
+        display: block !important;
+    }
+    .modal-header {
+        .btn-close {
+            z-index: 9999;
+        }
+        .photo {
+            width: 100%;
+            text-align: center;
+            img {
+                margin: 0;
+                border-radius: 50%;
+                border: 5px solid $background-input;
+            }
+        }
+    }    
+    .modal-body {
+        legend {
+            font-weight: 600;
+        }
+        p {
+            background: $background-input;
+            border: 1px solid rgba(0,0,0,0.1);
+            padding: 5px;
+            border-radius: 5px;
+        }
+    }
+
+    .label {
+        font-weight: 600;
+    }
+}
