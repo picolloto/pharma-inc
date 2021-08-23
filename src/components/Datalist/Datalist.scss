@@ -1,0 +1,23 @@
+
+.container-search{
+
+    svg {
+        top: 8px;
+        right: 10px;
+        width: 22px;
+        height: 22px;
+        color: #ced4da;
+    }
+    input.search {
+        &:hover {
+            pointer-events:none;
+        }
+    }
+}
+
+tbody {
+    background: #f1f1f1;
+    td {
+        font-size: 14px ;
+    }
+}
