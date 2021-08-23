@@ -1,0 +1,14 @@
+.navbar {
+    border-top: 1.5em solid #7fcac9;
+    background: #e8e8e8;
+    .navbar-brand {
+        display: flex;
+        align-items: center;
+        color: inherit;
+        img {
+            margin-right: 10px;
+            width: 30px;
+            height: 30px;
+        }
+    }
+}
