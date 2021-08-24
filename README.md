@@ -18,4 +18,4 @@ Depois execute:
 
 Pronto, a aplicação já está funcionando. 
 
-Acesse (http://127.0.0.1:80)[http://127.0.0.1:80]
+Acesse http://127.0.0.1:80
