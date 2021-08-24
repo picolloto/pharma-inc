@@ -19,3 +19,15 @@ Depois execute:
 Pronto, a aplicação já está funcionando. 
 
 Acesse http://127.0.0.1:80
+
+### Tecnologias Utilizadas
+
+- ReactJs
+- JavaScript
+- Sass
+- Bootstrap
+- React router dom
+- React Icons
+- React Hooks
+- Axios
+- Date-fns
